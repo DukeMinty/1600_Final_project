@@ -36,9 +36,7 @@ Many cameras, TVs, and non-Apple consumer devices cannot read APFS, making it un
 
 You should use APFS when working within the **Apple ecosystem** only, it is completely useless otherwise. Its compatibility with Apple devices is stellar, but in the same way that NTFS is stellar with Windows devices: the companies are simple enforcing it to be so.
 
-APFS allows for a very reliable and safe workspace across Apple devices that can allow users to make the most out of their SSDs and the benefits that APFS specifically provides.
-
-UAPFS is useless for a workspace where you need cross-device support however. Because it is not supported by most devices and is likely going to be read-only on the ones it is supported on, you should almost never format internal drives or external drives to APFS. If a drive is in APFS, it is certainly because it is the internal drive of your apple device. 
+APFS allows for a very reliable and safe workspace across Apple devices that can allow users to make the most out of their SSDs and the benefits that APFS specifically provides, however it is useless for a workspace where you need cross-device support. Because it is not supported by most devices and is likely going to be read-only on the ones it is supported on, you should almost never format internal drives or external drives to APFS. If a drive is in APFS, it is certainly because it is the internal drive of your apple device. 
 
 For work purposes where more than just Apple devices are necessary, any external drives should be formatted to exFat, as most devices including Apple products accept read and write permissions with it.
 
