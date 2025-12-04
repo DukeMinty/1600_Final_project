@@ -44,3 +44,6 @@ FAT32 is also great for:
 However, if you need to store files larger than 4 GB or require security features, FAT32 will not be suitable. In those cases, a more modern file system like exFAT or NTFS is a better option.
 
 If your setup involves transferring small data across many different platforms, FAT32 is one of the simplest and most universally accepted choices available.
+
+[← Back](ntfs.md)
+[Next →](exfat.md)
