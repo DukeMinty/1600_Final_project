@@ -20,12 +20,14 @@ Use the links below to navigate through the sections.
 
 ## 🔗 Contents
 
-- [Introduction to File Systems](./introduction.md)
-- [FAT / FAT32](./fat_fat32.md)
-- [NTFS](./ntfs.md)
-- [exFAT](./exfat.md)
-- [APFS](./apfs.md)
-- [HFS+](./hfsplus.md)
+- [Introduction to File Systems](introduction.md)
+- [FAT / FAT32](fat_fat32.md)
+- [NTFS](ntfs.md)
+- [exFAT](exfat.md)
+- [APFS](apfs.md)
+- [HFS+](hfsplus.md)
 
 ---
+
+[Next →](introduction.md)
 
