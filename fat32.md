@@ -6,7 +6,7 @@
 
 *FAT* (File Allocation Table) and its later version *FAT32* are some of the oldest and most widely supported file systems ever developed. Originally created by Microsoft in the late 1970s and updated throughout the 1990s, FAT32 became the standard for USB drives, memory cards, and devices that needed maximum cross-platform compatibility due to its age.
 
-FAT32 is known mainly for its simplicity, universal support, and lightweight structure. Unlike modern file systems, it does not support advanced security or journaling features, but its broad compatibility makes it ideal for portable storage devices and consumer electronics.
+FAT32 is known mainly for its simplicity, universal support, and lightweight structure. Its broad compatibility made it ideal for portable storage devices and consumer electronics when it released. Unlike modern file systems however, it does not support advanced security or journaling features. 
 
 ---
 
@@ -37,6 +37,8 @@ FAT32 offers no file-level security. Anyone with access to the drive can view or
 You should almost never use FAT32. Its main use-case is for older machines that require FAT32 to function properly.
 
 The 4 GB file size limit and lack of security features makes FAT32 nigh incompatible with modern workspaces. For transferring files between devices, a more modern and sidely-accepted file system like exFAT is a better option.
+
+Fat32 still hangs on as a low-overhead file format option for consumer electronics and some cameras, but for personal use, it is pretty much useless.
 
 [← Back](ntfs.md)
 [Next →](exfat.md)
