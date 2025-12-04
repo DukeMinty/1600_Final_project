@@ -1,7 +1,7 @@
 # A Summary of Digital File Systems
 
-**Author:** *[Your Name]*  
-**Course:** *[Class Name]*  
+**Author:** *Aaron Trebus*  
+**Course:** *INFOTC 1600*  
 
 **Purpose:**  
 This tutorial is being created as a final project for INFOTC2600 and is intended to serve as a clear, accessible educational resource for the major digital file system types. I'm designing this tutorial to help future students learn the fundamentals of digital file systems in an easy-to-digest way.
@@ -28,9 +28,4 @@ Use the links below to navigate through the sections.
 - [HFS+](./hfsplus.md)
 
 ---
-
-## 📝 Notes
-
-Feel free to expand, reorganize, or add additional pages as needed.  
-This README is meant to serve as a clear entry point for anyone exploring the topic of digital file systems through your tutorial.
 
