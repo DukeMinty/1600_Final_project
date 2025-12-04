@@ -11,7 +11,7 @@ This tutorial is intended for future generations of students taking this course 
 
 ---
 
-## 📘 Overview
+## Overview
 
 This repository contains a series of Markdown pages that break down major digital file systems, their structures, use cases, and differences.  
 
@@ -19,7 +19,7 @@ Use the links below to navigate through the sections.
 
 ---
 
-## 🔗 Contents
+## Contents
 
 - [Introduction to File Systems](introduction.md)
 - [NTFS](ntfs.md)
