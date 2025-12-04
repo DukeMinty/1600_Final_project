@@ -48,7 +48,7 @@ While NTFS provides data encryption, it doesn't support file encryption. This ca
 
 ### When should you use it?
 
-If you are running Windows, you don't have a choice. NTFS is the only option for your boot drive. You will at least have to use it for that purpose
+If you are running Windows, you don't have a choice. NTFS is the only option for your boot drive. You will at least have to use it for that purpose.
 
 For excess drives, I would argue that it's also best to just format them to also be NTFS. Unless you have a more specific use-case that we will discuss later, NTFS covers most of the bases anyone needs. In a Windows-centric setup, it will provide the best support for everything you need to do. 
 
