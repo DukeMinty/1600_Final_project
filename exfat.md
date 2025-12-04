@@ -42,3 +42,5 @@ exFAT shines in situations where you need **broad compatibility** and the abilit
 
 If you're working across multiple operating systems or handling large media files, exFAT is often the best choice, especially compared to its brother Fat32. However, for internal drives or situations where security and reliability are top priorities, it is not going to be useful. Your OS' preferred file type such as NTFS, APFS, or ext4 are better options.
 
+[← Back](fat32.md)
+[Next →](apfs.md)
