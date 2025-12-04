@@ -23,7 +23,7 @@ Use the links below to navigate through the sections.
 
 - [Introduction to File Systems](introduction.md)
 - [NTFS](ntfs.md)
-- [FAT / FAT32](fat_fat32.md)
+- [FAT32](fat32.md)
 - [exFAT](exfat.md)
 - [APFS](apfs.md)
 - [HFS+](hfsplus.md)
