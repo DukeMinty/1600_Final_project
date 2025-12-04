@@ -56,4 +56,4 @@ Aside from that, if you are someone who has multiple OS' and needs to transfer r
 
 
 [← Back](introduction.md)
-[Next →](fat_fat32.md)
+[Next →](fat32.md)
