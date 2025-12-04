@@ -21,9 +21,9 @@ Use the links below to navigate through the sections.
 
 ## 🔗 Contents
 
-- [FAT / FAT32](fat_fat32.md)
 - [Introduction to File Systems](introduction.md)
 - [NTFS](ntfs.md)
+- [FAT / FAT32](fat_fat32.md)
 - [exFAT](exfat.md)
 - [APFS](apfs.md)
 - [HFS+](hfsplus.md)
