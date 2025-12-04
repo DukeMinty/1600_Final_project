@@ -1,5 +1,7 @@
 # FAT32
 
+*Information sourced from [How-ToGeek](https://www.howtogeek.com/235596/whats-the-difference-between-fat32-exfat-and-ntfs/)
+
 ### What is FAT32?
 
 *FAT* (File Allocation Table) and its later version *FAT32* are some of the oldest and most widely supported file systems ever developed. Originally created by Microsoft in the late 1970s and updated throughout the 1990s, FAT32 became the standard for USB drives, memory cards, and devices that needed maximum cross-platform compatibility.
