@@ -26,7 +26,7 @@ Use the links below to navigate through the sections.
 - [FAT32](fat32.md)
 - [exFAT](exfat.md)
 - [APFS](apfs.md)
-- [HFS+](hfsplus.md)
+- [ext4](ext4.md)
 
 ---
 
