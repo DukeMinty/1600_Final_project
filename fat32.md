@@ -34,16 +34,9 @@ FAT32 offers no file-level security. Anyone with access to the drive can view or
 
 ### When should you use it?
 
-You should use FAT32 when **maximum compatibility** is your primary goal. Devices like cameras, gaming consoles, embedded systems, and older machines often require FAT32 to function properly.
+You should almost never use FAT32. Its main use-case is for older machines that require FAT32 to function properly.
 
-FAT32 is also great for:  
-- USB drives
-- Memory cards 
-- Small-capacity drives where NTFS or other systems add unnecessary overhead  
-
-However, if you need to store files larger than 4 GB or require security features, FAT32 will not be suitable. In those cases, a more modern file system like exFAT or NTFS is a better option.
-
-If your setup involves transferring small data across many different platforms, FAT32 is one of the simplest and most universally accepted choices available.
+The 4 GB file size limit and lack of security features makes FAT32 nigh incompatible with modern workspaces. For transferring files between devices, a more modern and sidely-accepted file system like exFAT is a better option.
 
 [← Back](ntfs.md)
 [Next →](exfat.md)
