@@ -4,10 +4,10 @@
 **Course:** *INFOTC 1600*  
 
 **Purpose:**  
-This tutorial is being created as a final project for INFOTC2600 and is intended to serve as a clear, accessible educational resource for the major digital file system types. I'm designing this tutorial to help future students learn the fundamentals of digital file systems in an easy-to-digest way.
+This tutorial is being created as a final project for INFOTC1600 and is intended to serve as a clear, accessible educational resource for the major digital file system types. I'm designing this tutorial to help future students learn the fundamentals of digital file systems in an easy-to-digest way.
 
 **Target Audience:**  
-This tutorial is intended for future generations of students taking this course who need a straightforward guide to understanding how different digital file systems work, why they exist, and how they are used in real computing environments.
+This tutorial is intended for future generations of students taking this course who need a straightforward guide to understanding how different digital file systems work, why they exist, and how they are used in real computing environments. I hope this tutorial will give students insights into what file system types are out there and why they may encounter so many options out there for them.
 
 ---
 
