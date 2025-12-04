@@ -34,7 +34,7 @@ NTFS uses file compression which provides better storage per-file than some othe
 
 - [ ] **Limited OS compatibility**
 
-NTFS is read-only with non-Windows OSes, such as macOS or Linux.
+NTFS is read-only with non-Windows OS', such as macOS or Linux.
 
 - [ ] **Lack of small-volume support**
 
