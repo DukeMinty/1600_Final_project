@@ -1,6 +1,6 @@
 # exFAT
 
-*Information from [How-To Geek](https://www.howtogeek.com/235596/whats-the-difference-between-fat32-exfat-and-ntfs/)*
+*Information sourced from [How-To Geek](https://www.howtogeek.com/235596/whats-the-difference-between-fat32-exfat-and-ntfs/)*
 
 ### What is exFAT?
 
